@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-cofcat",
+  "version": "1.0.0",
+  "description": "ESLint Config from cofcat",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --ext .js,.jsx,.ts,.tsx"
+  },
+  "keywords": [
+    "eslint",
+    "eslintrc",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "author": "CofCat456 <a25690756@gmail.com> (https://github.com/CofCat456)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CofCat456/eslint-config-cofcat/issues"
+  },
+  "homepage": "https://github.com/CofCat456/eslint-config-cofcat",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.7.1"
+  }
+}
