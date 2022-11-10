@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cofcat",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "ESLint Config from cofcat",
   "main": "index.js",
   "scripts": {
