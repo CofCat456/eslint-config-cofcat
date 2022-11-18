@@ -7,6 +7,14 @@
 npm install -D eslint-config-cofcat
 ```
 
+```bash
+# install necessary package
+npm install -D eslint
+npm install -D eslint-import
+npm install -D eslint-config-airbnb
+npm install -D prettier
+```
+
 ## Usage
 
 ### Setup Configuration of Prettier
